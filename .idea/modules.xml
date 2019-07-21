@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Deep-Learning-with-PyTorch-A-60-Minute-Blitz.iml" filepath="$PROJECT_DIR$/.idea/Deep-Learning-with-PyTorch-A-60-Minute-Blitz.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Deep_learning_examples_using_PyTorch/.idea/Deep_learning_examples_using_PyTorch.iml" filepath="$PROJECT_DIR$/../Deep_learning_examples_using_PyTorch/.idea/Deep_learning_examples_using_PyTorch.iml" />
     </modules>
   </component>
